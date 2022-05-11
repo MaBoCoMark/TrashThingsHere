@@ -14,7 +14,8 @@ In China, drinking Baijiu is usually done when toasting with another person and 
 Nowadays, More and more Chinese are becoming more health conscious, and therefore, start to reduce their consumption of the traditional Baijiu, viewed as bad for health.
 While still a significant part of the drinking occasion are following traditional context and rules, in recent years, drinking in China has shifting to more purpose of experiencing culture, cultivating friendship, relaxing, and having fun. 
 
-#Links Down Below
+# Links Down Below
+
 [Link1](https://matadornetwork.com/nights/a-westerners-guide-to-chinese-drinking-culture/#:~:text=%2520A%2520Westerner%25E2%2580%2599s%2520Guide%2520To%2520Chinese%2520Drinking%2520Culture,overlook.%2520If%2520the%2520party%2520is%2520big...%2520More%2520)
 
 [Link2](https://letschinese.com/drinking-culure-in-china/)
