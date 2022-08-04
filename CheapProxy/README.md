@@ -9,14 +9,18 @@ Have free 1G/day when register.
 
 # ChainLink
 ### TW/SG/HK/US/JP
-[8888888.one](https://8888888.one) 9.9$/31days 150GB
+[8888888.one](https://8888888.one) 9.9$/31days / 150GB
 no free subs
 
 # Miru
 ### TW/JP/KR/SG/HK/US
-[miru.cloud](https://miru.cloud/) 5$/30days 50G 2 devices
+[miru.cloud](https://miru.cloud/) 5$/30days / 50G / 2 devices
 no free subs
 
-# ~~Yiyo~~ Not Cheap At ALL
+# ~~PaoFu~~ (not cheap)
 ### TW/SG/HK/US/JP
-[yiyo.mobi](https://yiyo.mobi/) 18$/30days 50G 2 devices
+[paofu.cloud](https://paofu.cloud/) 19$/30days / 150G / 2 devices
+
+# ~~Yiyo~~ (Not Cheap At ALL)
+### TW/SG/HK/US/JP
+[yiyo.mobi](https://yiyo.mobi/) 18$/30days / 50G / 2 devices
