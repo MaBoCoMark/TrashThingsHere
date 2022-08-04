@@ -38,6 +38,7 @@ no free subs
 [stc-club](https://stc-clubs.wtf) 15$/31days / 150G / 40Mbps
 
 ## MIMEMI (invite code : mimemi)
+> pw: rDt4NjQDSBRfy.v
 ### RU/HK/US
 ##### has 1$/1day 4G top proxy (add TURKEY/DE/JP/KR/TW)
 [Dynamic Site](https://t.me/s/mimemi_push1) 8$/31days / 100G
