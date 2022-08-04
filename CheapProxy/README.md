@@ -12,6 +12,6 @@ Have free 1G/day when register.
 no free subs
 # Miru
 ### TW/JP/KR/SG/HK/US
-[miru.cloud](miru.cloud) 5$/30days 50G 2devices
+[miru.cloud](https://miru.cloud/) 5$/30days 50G 2devices
 no free subs
 
