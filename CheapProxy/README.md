@@ -18,6 +18,7 @@ no free subs
 no free subs
 
 # ~~PaoFu~~ (not cheap)
+##### BUT has 1$/3days IPEL proxy
 ### TW/SG/HK/US/JP
 [paofu.cloud](https://paofu.cloud/) 19$/30days / 150G / 2 devices
 
