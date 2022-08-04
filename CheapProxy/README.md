@@ -33,6 +33,10 @@ no free subs
 [miru.cloud](https://miru.cloud/) 5$/30days / 50G / 2 devices
 no free subs
 
+## ~~STC~~ (shit bandwidth)
+### but have free 1G 1day when register. (EMAIL not required)
+[stc-club](https://stc-clubs.wtf) 15$/31days / 150G / 40Mbps
+
 ## ~~PaoFu~~ (not cheap)
 ##### BUT has 1$/3days IPEL proxy
 ### TW/SG/HK/US/JP
