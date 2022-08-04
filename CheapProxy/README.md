@@ -1,4 +1,4 @@
- Foo&Friends (Favorite now!)
+# Foo&Friends (Favorite now!)
 ### Argentina even. A LOT.
 [fnf.one](https://fnf.one) 9.9$/30days 60G 3devices
 
