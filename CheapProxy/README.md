@@ -17,6 +17,6 @@ no free subs
 [miru.cloud](https://miru.cloud/) 5$/30days 50G 2 devices
 no free subs
 
-# Yiyo ~~Not Cheap At ALL~~
+# ~~Yiyo~~ Not Cheap At ALL
 ### TW/SG/HK/US/JP
 [yiyo.mobi](https://yiyo.mobi/) 18$/30days 50G 2 devices
