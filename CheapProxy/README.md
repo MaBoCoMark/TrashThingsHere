@@ -10,7 +10,10 @@
 [feiniaoyun.top](https://feiniaoyun.top)
 Have free 1G/day when register.
 
-> aboves are featured.
+```
+Above are 2 featured services.
+Below are cheap ones.
+```
 
 ## Naiko
 ### TW/SG/HK/US/JP
