@@ -19,7 +19,7 @@ Below are cheap ones.
 ### TW/SG/HK/US/JP
 [naiko.cloud](https://naiko.cloud/) 7$/31days / 50G / 5 devices
 
-## HuTao
+## HuTao (any email could register)
 ### TW/SG/HK/US/JP
 [hutao.cloud](https://hutao.cloud/) 7$/31days / 50G
 
