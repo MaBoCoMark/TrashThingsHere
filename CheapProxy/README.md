@@ -19,6 +19,10 @@ Below are cheap ones.
 ### TW/SG/HK/US/JP
 [naiko.cloud](https://naiko.cloud/) 7$/31days / 50G / 5 devices
 
+## HuTao
+### TW/SG/HK/US/JP
+[hutao.cloud](https://hutao.cloud/) 7$/31days / 50G
+
 ## ChainLink
 ### TW/SG/HK/US/JP
 [8888888.one](https://8888888.one) 9.9$/31days / 150GB
