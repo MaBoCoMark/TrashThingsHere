@@ -22,6 +22,8 @@ Below are cheap ones.
 ## HuTao (any email could register)
 ### TW/SG/HK/US/JP
 [hutao.cloud](https://hutao.cloud/) 7$/31days / 50G
+no free subs
+perform well under NET
 
 ## ChainLink
 ### TW/SG/HK/US/JP
@@ -32,6 +34,7 @@ no free subs
 ### TW/JP/KR/SG/HK/US
 [miru.cloud](https://miru.cloud/) 5$/30days / 50G / 2 devices
 no free subs
+fluent only on UNICOM
 
 ## ~~STC~~ (shit bandwidth)
 ### but have free 1G 1day when register. (EMAIL not required)
