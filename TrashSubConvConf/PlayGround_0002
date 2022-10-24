@@ -3,4 +3,4 @@ rename_node=!!GROUPID=1!!(.*)机场2@ $1
 
 surge_ruleset=DIRECT,[]MATCH
 
-custom_proxy_group=CDNs`[]DIRECT`[]REJECT
+custom_proxy_group=ALL`select`.*`[]DIRECT`[]REJECT
