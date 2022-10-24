@@ -1,4 +1,4 @@
-rename_node=!!GROUPID=0!!(.*)?|@OKAY_$1
+rename_node=!!GROUPID=0!!新加坡@SGP
 
 surge_ruleset=DIRECT,[]MATCH
 
