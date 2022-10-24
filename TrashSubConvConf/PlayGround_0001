@@ -1,5 +1,5 @@
-rename_node=!!GROUPID=0!!(新加坡)(.*)@SG\1
-rename_node=!!GROUPID=1!!(.*)@S2_\1
+rename_node=!!GROUPID=0!!(.*)@\1_OKAY
+rename_node=!!GROUPID=1!!(.*)@SWTF_\1
 surge_ruleset=DIRECT,[]MATCH
 
 custom_proxy_group=ALL`select`.*`[]DIRECT`[]REJECT
