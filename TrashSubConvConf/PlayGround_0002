@@ -1,0 +1,6 @@
+rename_node=!!GROUPID=0!!(.*)@机场1 $1
+rename_node=!!GROUPID=1!!(.*)机场2@ $1
+
+surge_ruleset=DIRECT,[]MATCH
+
+custom_proxy_group=CDNs`[]DIRECT`[]REJECT
