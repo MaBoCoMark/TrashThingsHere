@@ -1,5 +1,5 @@
-rename_node=!!GROUPID=0!!(.*)@大大 $1
-rename_node=!!GROUPID=1!!(.*)@小小 $2
+rename_node=!!GROUPID=0!!(.*)?@大大_$1OKAY
+rename_node=!!GROUPID=1!!(.*)?@小小_$1
 
 surge_ruleset=DIRECT,[]MATCH
 
