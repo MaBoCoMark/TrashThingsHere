@@ -1,8 +1,8 @@
-rename_node=!!GROUPID=0!!(.*)?@大大_$1OKAY
+rename_node=!!GROUPID=0!!(.*)?@$1_OKAY
 rename_node=!!GROUPID=1!!(.*)?@小小_$1
 
 surge_ruleset=DIRECT,[]MATCH
 
 custom_proxy_group=ALL`select`.*`[]DIRECT`[]REJECT
-custom_proxy_group=P1`select`大大`[]DIRECT`[]REJECT
+custom_proxy_group=P1`select`OKAY`[]DIRECT`[]REJECT
 custom_proxy_group=P2`select`小小`[]DIRECT`[]REJECT
