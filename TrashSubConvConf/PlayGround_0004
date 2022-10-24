@@ -1,0 +1,8 @@
+rename_node=!!GROUPID=0!!(.*)@ 大大
+rename_node=!!GROUPID=1!!(.*)@ 小小$2
+
+surge_ruleset=DIRECT,[]MATCH
+
+custom_proxy_group=ALL`select`.*`[]DIRECT`[]REJECT
+custom_proxy_group=P1`select`大大`[]DIRECT`[]REJECT
+custom_proxy_group=P2`select`小小`[]DIRECT`[]REJECT
