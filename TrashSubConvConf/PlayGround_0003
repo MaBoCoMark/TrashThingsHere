@@ -1,4 +1,4 @@
-rename_node=!!GROUPID=0!!新加坡@SG$1
+rename_node=!!GROUPID=0!!新加坡@SG\1
 
 surge_ruleset=DIRECT,[]MATCH
 
