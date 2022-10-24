@@ -1,0 +1,4 @@
+rename_node=!!GROUPID=0!!大大@
+rename_node=!!GROUPID=1!!小小@
+
+surge_ruleset=DIRECT,[]MATCH
